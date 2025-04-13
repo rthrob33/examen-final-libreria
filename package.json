@@ -1,0 +1,15 @@
+{
+  "name": "examenparcial2",
+  "version": "1.0.0",
+  "description": "Este es mi examen de programacion 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roberth Melendez",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "readline-sync": "^1.4.10"
+  }
+}
